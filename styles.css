@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+ 
+
+
+body {
+    margin: 140px;
+    font-family:MyCustomFont;
+    cursor: url("./cursor.png"), auto;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+
+.myname {
+    color: green;
+    font-size: 30px;
+}
+
+.Cigar {
+     width: 125px;
+}
+
+.boom {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+ 
