@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
  
 html {
-    background: url(3-MIAMI-VICE-3.png) no-repeat center center fixed;
+    background: url("./3-MIAMI-VICE-3.png") no-repeat center center fixed;
      
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -63,7 +63,7 @@ li {
     flex-wrap: wrap;
 }
 .PC{
-    background: url(Cigar.png);
+    background: url("./Cigar.png");
     background-size: 165px auto;
     width: 180px;
     height: 129px;
