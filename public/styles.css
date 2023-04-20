@@ -62,7 +62,7 @@ li {
     margin-top: 100px;
     flex-wrap: wrap;
 }
-.PC{
+.PC {
     background: url("./Cigar.png");
     background-size: 165px auto;
     width: 180px;
@@ -73,4 +73,11 @@ li {
     flex-direction: row;
     align-content: center;
     margin-left: 900px;
+}
+.Rumbo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 700px;
+    margin-top: 75px;
 }
