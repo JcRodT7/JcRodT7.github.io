@@ -21,16 +21,6 @@ p {
     gap: 10px;
 }
 
-.Rumbo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-left: 850px;
-    margin-top: 55px;
-    font-size: 12px;
-    gap: 8px;
-}
-
 li {
     list-style: none;
     font-size: 12px;
@@ -80,4 +70,12 @@ li {
     align-content: center;
    
 }
-
+.Rumbo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 850px;
+    margin-top: 55px;
+    font-size: 12px;
+    gap: 8px;
+}
