@@ -10,7 +10,6 @@ html {
 }
 
 body {
-    margin: 140px;
     font-family:MyCustomFont;
     cursor: url("./Cursor.png"), auto;
 }
@@ -19,8 +18,13 @@ p {
     flex-direction: row;
     align-items: center;
     gap: 10px;
-}
+    margin-left: 950px;
 
+}
+.topsection{
+    margin: 140px;
+    margin-bottom: 300px;
+}
 li {
     list-style: none;
     font-size: 12px;
@@ -78,4 +82,14 @@ li {
     margin-top: 55px;
     font-size: 12px;
     gap: 8px;
+}
+
+.midsection {
+    width: 100vw;
+    height: 500px;
+    background-color: rgb(5, 86, 102);
+}
+h1 {
+    text-align: center;
+
 }
