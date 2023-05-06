@@ -88,9 +88,14 @@ li {
     width: 100vw;
     height: 1000px;
     background-color: rgb(5, 86, 102);
-    
 }
 h1 {
     text-align: center;
 
+}
+.whatsrumbo {
+   margin-top: -550px;
+    margin-right: 50px;
+    text-align: left;
+    
 }
