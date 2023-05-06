@@ -86,8 +86,9 @@ li {
 
 .midsection {
     width: 100vw;
-    height: 500px;
+    height: 1000px;
     background-color: rgb(5, 86, 102);
+    
 }
 h1 {
     text-align: center;
